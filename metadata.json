@@ -1,0 +1,5 @@
+{
+  "name": "PFFP Agricultural Dashboard",
+  "description": "An interactive dashboard for visualizing data related to the Prosperous Farmers and Forests Partnership (PFFP) project. It tracks farmer information, plot details, tree planting metrics, and production data with dynamic filters and charts.",
+  "requestFramePermissions": []
+}
